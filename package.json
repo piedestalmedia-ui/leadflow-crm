@@ -1,0 +1,7 @@
+{
+  "name": "leadflow-crm",
+  "private": true,
+  "version": "1.0.0",
+  "workspaces": ["frontend", "backend"],
+  "scripts": { "dev": "npm run dev -w frontend", "build": "npm run build -w frontend", "server": "npm run dev -w backend" }
+}

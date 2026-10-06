@@ -1,0 +1,1 @@
+module.exports = { darkMode: ['class'], content: ['./index.html', './src/**/*.{ts,tsx}'], theme: { extend: { colors: { brand: { DEFAULT: '#626fed', dark: '#5362df' } }, fontFamily: { sans: ['DM Sans', 'sans-serif'], display: ['Manrope', 'sans-serif'] } } }, plugins: [] };
